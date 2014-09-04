@@ -25,7 +25,7 @@ Instructions:
 3. And you're ready to go! Now you can launch the selenium server from the corresponding directory (in this case "bin"): ```java -jar bin/selenium-server.jar```
 Chrome Driver:
 ______________
-add the folloeing arguments when running the selenium server.
+add the following arguments when running the selenium server.
 -Dwebdriver.chrome.driver="bin/chromedriver" -browser "browserName=chrome,version=17" 
 
 
