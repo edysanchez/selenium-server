@@ -16,5 +16,5 @@
     "keywords": ["selenium","selenium-server","selenium-server-standalone","functional testing","testing"],
     "homepage": "http://github.com/edysanchez/selenium-server",
     "license": "MIT",
-    "bin": ["bin/selenium-server.jar","bin/chromedriver_win32.exe", "bin/chromedriver_mac32","bin/chromedriver_linux64", "bin/chromedriver_linux32", "bin/chromedriver"]
+    "bin": ["bin/selenium-server.jar","bin/chromedriver_win32.exe", "bin/chromedriver_mac32","bin/chromedriver_linux64", "bin/chromedriver_linux32", "bin/chromedriver_mac32"]
 }
